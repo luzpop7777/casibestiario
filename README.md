@@ -5,3 +5,4 @@ proyecto java y bestiario
  - no lo lograba crear, como el index, pero ya pude
  - con dudas sobre el index y como conectarlo con las fotos que quiero que se unan 
  - linkeando al contenedor general
+ - tuve que ver algo y cometi un pecado y tue que usar la ia y me dijo poner span
